@@ -44,6 +44,8 @@ Some projects I'm working on:
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nx-manoj&layout=compact&theme=tokyonight)
+
 ## 🎧 Interests
 
 * Coding
