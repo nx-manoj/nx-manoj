@@ -162,7 +162,7 @@ me.say_hi()
 | **DS Experiments** | Data Science beginner notebooks | `Python` `Pandas` `NumPy` | 🌱 Learning |
 | **Automation Scripts** | Everyday task automation tools | `Python` `Bash` | ✅ Active |
 
-<p>Project not uploaded to github yet...;)</p>
+<p>Projects not uploaded to github yet...;)</p>
 
 </div>
 
