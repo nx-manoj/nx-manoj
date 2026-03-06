@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Science%20Journey&fontSize=40&animation=fadeIn&fontAlignY=35)
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=AI%20%7C%20Data%20Science%20Learner&fontSize=40&fontColor=ffffff)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Data+Science+Student;Learning+Generative+AI;Building+Projects)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Data+Science+Learner;Future+GenAI+Engineer;Building+Projects;Always+Learning)
 
 # Hi 👋 I'm Manoj
 
