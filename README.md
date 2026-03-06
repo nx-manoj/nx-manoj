@@ -53,6 +53,11 @@ Some projects I'm working on:
 * Coding
 * AI & Technology
 * Listening to music
+* <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=vs1yiqaz1s9iolmkl4emioplg&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vs1yiqaz1s9iolmkl4emioplg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
+  </a>
+</p>
 
 ---
 ![snake animation](https://github.com/YOURUSERNAME/nx-manoj/blob/output/github-contribution-grid-snake.svg)
