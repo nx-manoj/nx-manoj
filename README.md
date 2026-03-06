@@ -163,6 +163,7 @@ me.say_hi()
 | **Automation Scripts** | Everyday task automation tools | `Python` `Bash` | ✅ Active |
 
 <p>Projects not uploaded to github yet...;)</p>
+<p>I'll add python tutorials and more for beginners....stay tuned⚡</p>
 
 </div>
 
