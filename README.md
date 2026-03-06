@@ -187,7 +187,7 @@ print(f"Grateful for: {me.supporter}")
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=50&text=⚡%20%20ARSENAL%20%26%20TECH%20STACK&fontSize=18&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/><br/>
 
