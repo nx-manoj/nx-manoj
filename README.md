@@ -257,7 +257,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Behind+every+coder+is+someone+who+believes...+%F0%9F%92%9C;Thank+you+Deepthi+for+always+being+there+%F0%9F%8C%9F;My+biggest+supporter+%F0%9F%92%9C%F0%9F%92%9C%F0%9F%92%9C" alt="Supporter" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Behind+every+coder+is+someone+who+believes...+%F0%9F%92%9C;Thank+you+D+for+always+being+there+%F0%9F%8C%9F;My+biggest+supporter+%F0%9F%92%9C%F0%9F%92%9C%F0%9F%92%9C" alt="Supporter" />
 
 <br/><br/>
 
