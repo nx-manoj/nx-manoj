@@ -33,7 +33,7 @@
 class Manoj:
     def __init__(self):
         self.username   = "nx-manoj"
-        self.supporter  = "Deepthi 💜"        # my biggest supporter 🌟
+        self.supporter  = "D(soul) 💜"        # my biggest supporter 🌟
         self.degree     = "BCA — Data Science"
         self.role       = "Vibe Coder & Gen AI Explorer"
         self.languages  = ["Python 🐍", "C", "Bash"]
