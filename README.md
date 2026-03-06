@@ -53,5 +53,6 @@ Some projects I'm working on:
 * Listening to music
 
 ---
+![snake animation](https://github.com/YOURUSERNAME/nx-manoj/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ Always learning and improving.
