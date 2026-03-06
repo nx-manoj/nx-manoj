@@ -27,9 +27,6 @@ My goal is to build real projects and gradually grow into a **Generative AI Engi
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode" />
-</p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode&theme=dark" />
 </p>
