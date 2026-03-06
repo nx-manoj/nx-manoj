@@ -38,9 +38,9 @@ Some projects I'm working on:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nx-manoj&show_icons=true&theme=tokyonight)
 
 ---
 
