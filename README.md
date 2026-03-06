@@ -103,6 +103,7 @@ Small Coding Projects
 | **Smart File Organizer** | Python GUI to auto-sort files | `Python` `Tkinter` |
 | **DS Experiments** | Beginner Data Science notebooks | `Python` `Pandas` `NumPy` |
 | **Automation Scripts** | Handy everyday automation tools | `Python` `Bash` |
+<p>Projects not uploaded to github...;)</p>
 
 </div>
 
