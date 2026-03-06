@@ -1,110 +1,174 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  nx-manoj | GitHub Profile                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    nx-manoj | GitHub Profile README                     -->
+<!--              Crafted with obsession. Powered by purpose. 💜             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- HEADER BANNER — Venom Style -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=nx-manoj&fontSize=75&fontColor=c4b5fd&animation=fadeIn&fontAlignY=40&desc=✦%20BCA%20Data%20Science%20%7C%20Gen%20AI%20Explorer%20%7C%20Vibe%20Coder%20✦&descAlignY=62&descColor=7c3aed&descSize=16" />
-</div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- CINEMATIC HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050010,20:0d0221,50:1a0533,80:0d0221,100:050010&height=280&section=header&text=MANOJ&fontSize=110&fontColor=c4b5fd&animation=fadeIn&fontAlignY=45&desc=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&descAlignY=60&descColor=4c1d95&descSize=12" />
 
-<br/>
-
-<!-- TYPING ANIMATION -->
-<div align="center">
+<!-- ANIMATED TYPING — ELEGANT TAGLINE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=650&height=50&lines=Hey+there!+I'm+Manoj+%F0%9F%91%8B;BCA+Data+Science+Student+%F0%9F%8E%93;Generative+AI+Explorer+%F0%9F%A4%96;Python+%26+Vibe+Coder+%F0%9F%90%8D;Building+cool+stuff+%E2%9C%A8;Always+learning%2C+always+vibing+%F0%9F%8E%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=300&size=18&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=35&lines=BCA+Data+Science+%E2%80%A2+Generative+AI+Explorer+%E2%80%A2+Vibe+Coder" alt="Tagline" />
 </a>
-</div>
 
 <br/>
 
-<!-- BADGES -->
-<div align="center">
+<!-- SOCIAL BADGES — GLASSMORPHISM STYLE -->
+<a href="https://github.com/nx-manoj">
+  <img src="https://komarev.com/ghpvc/?username=nx-manoj&label=VISITORS&color=7c3aed&style=for-the-badge&logo=eye&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/nx-manoj?tab=followers">
+  <img src="https://img.shields.io/github/followers/nx-manoj?label=FOLLOWERS&style=for-the-badge&color=6d28d9&labelColor=0d0221&logo=github&logoColor=c4b5fd" />
+</a>
+&nbsp;
+<a href="https://github.com/nx-manoj?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnx-manoj&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=4c1d95&labelColor=0d0221&logo=folder&logoColor=c4b5fd" />
+</a>
+&nbsp;
+<a href="https://github.com/nx-manoj">
+  <img src="https://img.shields.io/github/stars/nx-manoj?label=STARS&style=for-the-badge&color=5b21b6&labelColor=0d0221&logo=star&logoColor=c4b5fd" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nx-manoj&label=Profile+Views&color=7c3aed&style=for-the-badge&logo=eye)](https://github.com/nx-manoj)
-[![GitHub followers](https://img.shields.io/github/followers/nx-manoj?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a0533&logo=github)](https://github.com/nx-manoj?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/nx-manoj?label=Stars&style=for-the-badge&color=7c3aed&labelColor=1a0533&logo=star)](https://github.com/nx-manoj)
+<!-- ─────────────────────────────────────────────── -->
 
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ╔══════════════ ABOUT ME ══════════════╗ -->
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--                   WHO AM I?                     -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=40&text=⚡%20About%20Me&fontSize=20&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,8&height=2&section=header" width="60%"/>
+
+<br/><br/>
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║    ███╗   ███╗ █████╗ ███╗   ██╗ ██████╗      ██╗        ║
+║    ████╗ ████║██╔══██╗████╗  ██║██╔═══██╗     ██║        ║
+║    ██╔████╔██║███████║██╔██╗ ██║██║   ██║     ██║        ║
+║    ██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██   ██║        ║
+║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝╚█████╔╝        ║
+║    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚════╝         ║
+║                                                           ║
+║         B U I L D . B R E A K . L E A R N . 🔁           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <br/>
+
+<!-- ABOUT ME — CODE BLOCK -->
+<div align="left">
 
 ```python
 #!/usr/bin/env python3
-# ╔══════════════════════════════════════════╗
-# ║        nx-manoj — GitHub Profile         ║
-# ╚══════════════════════════════════════════╝
+"""
+╔══════════════════════════════════════════════════════════╗
+║              nx-manoj — Developer Profile v2.0           ║
+║                  Executing with purpose 🚀               ║
+╚══════════════════════════════════════════════════════════╝
+"""
 
-class Manoj:
-    def __init__(self):
-        self.username   = "nx-manoj"
-        self.degree     = "BCA — Data Science 🎓"
-        self.role       = ["Vibe Coder 💻", "Gen AI Explorer 🤖", "Python Learner 🐍"]
-        self.supporter  = "D(Soul) 💜"        # my biggest supporter 🌟
-        self.learning   = ["Python", "Data Science", "Generative AI", "ML Basics"]
-        self.building   = ["Smart File Organizer", "DS Experiments", "Automation Scripts"]
-        self.interests  = ["Coding 💻", "AI & Tech 🤖", "Music 🎧"]
-        self.os         = "Linux 🐧"
-        self.editor     = "VS Code ⚡"
-        self.motto      = "Build. Break. Learn. Repeat. 🔁"
+from dataclasses import dataclass, field
+from typing import List
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome 🚀")
-        print(f"Powered by coffee ☕ + music 🎧 + {self.supporter} 💜")
+@dataclass
+class Developer:
+    # ── Identity ─────────────────────────────────────
+    name        : str  = "Manoj"
+    alias       : str  = "nx-manoj"
+    degree      : str  = "BCA — Data Science 🎓"
+    location    : str  = "India 🇮🇳"
+    os          : str  = "Linux 🐧"
+    editor      : str  = "VS Code ⚡"
 
-me = Manoj()
-me.say_hi()
+    # ── Current Focus ─────────────────────────────────
+    learning    : List = field(default_factory=lambda: [
+        "Python 🐍", "Data Science 📊", "Generative AI 🤖", "ML Basics 🧠"
+    ])
+    building    : List = field(default_factory=lambda: [
+        "Smart File Organizer 🗂️",
+        "DS Experiments 📓",
+        "Automation Scripts ⚙️"
+    ])
+
+    # ── Personality ───────────────────────────────────
+    interests   : List = field(default_factory=lambda: [
+        "Coding 💻", "AI & Tech 🤖", "Music 🎧", "Night sessions 🌙"
+    ])
+    superpower  : str  = "Turning caffeine + music into clean code ☕🎧"
+    supporter   : str  = "D(Soul) 💜 — my biggest motivation 🌟"
+    motto       : str  = "Build. Break. Learn. Repeat. 🔁"
+
+    def status(self) -> str:
+        return "🟢 Open to collaborate | 🌱 Always learning | ✨ Vibing hard"
+
+me = Developer()
+print(f"Hey! I'm {me.name} — {me.status()}")
+print(f"Powered by: {me.superpower}")
+print(f"Grateful for: {me.supporter}")
 ```
+
+</div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ╔══════════════ CURRENTLY ══════════════╗ -->
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--                WHAT I'M DOING NOW               -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=40&text=🌱%20What%20I'm%20Doing&fontSize=20&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=50&text=🌱%20%20CURRENTLY%20IN%20PROGRESS&fontSize=18&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center" width="220">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXbDs/giphy.gif" width="60" /><br/>
-<b>🐍 Learning</b><br/>
-<sub>Python Programming</sub>
+<td align="center" width="230">
+
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXbDs/giphy.gif" width="70" /><br/><br/>
+**`[ LEARNING ]`**<br/>
+![Python](https://img.shields.io/badge/Python-Programming-7c3aed?style=flat-square&logo=python&logoColor=white)<br/>
+<sub>Mastering Python fundamentals & beyond</sub>
+
 </td>
-<td align="center" width="220">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /><br/>
-<b>📊 Exploring</b><br/>
-<sub>Data Science Fundamentals</sub>
+<td align="center" width="230">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" /><br/><br/>
+**`[ EXPLORING ]`**<br/>
+![DS](https://img.shields.io/badge/Data_Science-Fundamentals-6d28d9?style=flat-square&logo=pandas&logoColor=white)<br/>
+<sub>Pandas • NumPy • Matplotlib & more</sub>
+
 </td>
-<td align="center" width="220">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60" /><br/>
-<b>🤖 Experimenting</b><br/>
-<sub>Generative AI Tools</sub>
+<td align="center" width="230">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70" /><br/><br/>
+**`[ EXPERIMENTING ]`**<br/>
+![AI](https://img.shields.io/badge/Generative_AI-Tools-5b21b6?style=flat-square&logo=openai&logoColor=white)<br/>
+<sub>Prompt engineering • AI workflows</sub>
+
 </td>
-<td align="center" width="220">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" /><br/>
-<b>🛠️ Building</b><br/>
-<sub>Cool Coding Projects</sub>
+<td align="center" width="230">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70" /><br/><br/>
+**`[ BUILDING ]`**<br/>
+![Projects](https://img.shields.io/badge/Cool-Projects-4c1d95?style=flat-square&logo=github&logoColor=white)<br/>
+<sub>File Organizer • Scripts • DS Labs</sub>
+
 </td>
 </tr>
 </table>
@@ -113,184 +177,260 @@ me.say_hi()
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ╔══════════════ TECH STACK ══════════════╗ -->
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--                   TECH STACK                    -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=40&text=⚡%20Tech%20Stack&fontSize=20&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=50&text=⚡%20%20ARSENAL%20%26%20TECH%20STACK&fontSize=18&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <br/><br/>
 
-**💬 Languages**
+### `// Languages`
 
-<img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark&perline=10" />
+
+<br/>
+
+### `// Tools & Workflow`
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash&theme=dark&perline=10" />
 
 <br/><br/>
 
-**🛠️ Tools & Environment**
+<!-- PROFICIENCY BARS -->
+<table>
+<tr><td>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+| Skill | Level | Bar |
+|:------|:-----:|:----|
+| 🐍 Python | `★★★★☆` | `████████░░` 80% |
+| 🔷 C | `★★★☆☆` | `██████░░░░` 60% |
+| 🌿 Git | `★★★☆☆` | `██████░░░░` 60% |
+| 🐧 Linux | `★★★☆☆` | `██████░░░░` 60% |
 
-<br/><br/>
+</td><td>
 
-![Python](https://img.shields.io/badge/Python-★★★★☆-c4b5fd?style=for-the-badge&logo=python&logoColor=c4b5fd&labelColor=1a0533)
-![C](https://img.shields.io/badge/C-★★★☆☆-c4b5fd?style=for-the-badge&logo=c&logoColor=c4b5fd&labelColor=1a0533)
-![Git](https://img.shields.io/badge/Git-★★★☆☆-c4b5fd?style=for-the-badge&logo=git&logoColor=c4b5fd&labelColor=1a0533)
-![Linux](https://img.shields.io/badge/Linux-★★★☆☆-c4b5fd?style=for-the-badge&logo=linux&logoColor=c4b5fd&labelColor=1a0533)
+| Area | Focus | Status |
+|:-----|:-----:|:------:|
+| 📊 Data Science | Pandas, NumPy | `🌱 Growing` |
+| 🤖 Gen AI | Prompting, Tools | `🔥 Active` |
+| 🗂️ Automation | Python Scripts | `✅ Ongoing` |
+| 🧠 ML Basics | Concepts | `📖 Studying` |
+
+</td></tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ╔══════════════ PROJECTS ══════════════╗ -->
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--                   PROJECTS                      -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=40&text=📂%20Projects&fontSize=20&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
-<br/><br/>
-
-| 🚀 Project | 💡 What it does | 🛠️ Stack | 🔖 Status |
-|:---:|:---:|:---:|:---:|
-| **Smart File Organizer** | Auto-sorts files with a clean GUI | `Python` `Tkinter` | 🔨 Building |
-| **DS Experiments** | Data Science beginner notebooks | `Python` `Pandas` `NumPy` | 🌱 Learning |
-| **Automation Scripts** | Everyday task automation tools | `Python` `Bash` | ✅ Active |
-
-<p>Projects not uploaded to github yet...;)</p>
-<p>I'll add python tutorials and more for beginners....stay tuned⚡</p>
-
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════ GITHUB STATS ══════════════╗ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=40&text=📊%20GitHub%20Stats&fontSize=20&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nx-manoj&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c4b5fd&icon_color=7c3aed&text_color=a78bfa&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nx-manoj&theme=midnight-purple&hide_border=true&background=0d0221&ring=c4b5fd&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=a78bfa&border_radius=10" />
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nx-manoj&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c4b5fd&text_color=a78bfa&border_radius=10" />
-
-<br/><br/>
-
-<!-- Trophies -->
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=nx-manoj&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════ ACTIVITY GRAPH ══════════════╗ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=40&text=📈%20Contribution%20Graph&fontSize=20&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nx-manoj&bg_color=0d0221&color=c4b5fd&line=7c3aed&point=c4b5fd&area_color=2d1b69&area=true&hide_border=true&radius=8" />
-
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════ VIBES ══════════════╗ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=40&text=🎧%20Vibes%20%26%20Interests&fontSize=20&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=50&text=📂%20%20PROJECTS%20%26%20BUILDS&fontSize=18&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <br/><br/>
 
 ```
- ┌─────────────────────────────────────────────────┐
- │                  nx-manoj's vibes               │
- ├─────────────────────────────────────────────────┤
- │  💻  Coding          →  My happy place          │
- │  🤖  AI & Technology →  The future is now       │
- │  🎧  Music           →  Always on, never off    │
- │  🌙  Night coding    →  Best hours of the day   │
- │  ☕  Coffee + code   →  The perfect combo       │
- └─────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║  🚀  PROJECT MANIFEST — nx-manoj                                 ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ▸ Smart File Organizer                     [🔨 IN PROGRESS]     ║
+║    └─ Auto-sorts files with a polished GUI                       ║
+║       Stack: Python • Tkinter                                    ║
+║                                                                  ║
+║  ▸ DS Experiments Lab                       [🌱 LEARNING]        ║
+║    └─ Beginner-to-intermediate DS notebooks                      ║
+║       Stack: Python • Pandas • NumPy • Matplotlib                ║
+║                                                                  ║
+║  ▸ Automation Scripts Collection            [✅ ACTIVE]          ║
+║    └─ Everyday task automation toolkit                           ║
+║       Stack: Python • Bash                                       ║
+║                                                                  ║
+║  ▸ Python Tutorials (for beginners)         [📝 COMING SOON]     ║
+║    └─ Clean, fun tutorials for new coders                        ║
+║       Stay tuned — dropping soon ⚡                              ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+> 💡 *"Projects are uploading to GitHub soon — stay tuned for the drop! 🚀"*
+
+</div>
 
 <br/>
 
-<!-- Contribution Snake -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--                  GITHUB STATS                   -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=50&text=📊%20%20GITHUB%20ANALYTICS&fontSize=18&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nx-manoj&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=050010&title_color=c4b5fd&icon_color=7c3aed&text_color=a78bfa&border_radius=12&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nx-manoj&theme=midnight-purple&hide_border=true&background=050010&ring=c4b5fd&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=a78bfa&border_radius=12" />
+
+<br/><br/>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nx-manoj&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=050010&title_color=c4b5fd&text_color=a78bfa&border_radius=12&langs_count=6" />
+
+<br/><br/>
+
+<!-- TROPHY SHOWCASE -->
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=nx-manoj&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--               CONTRIBUTION GRAPH                -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=50&text=📈%20%20CONTRIBUTION%20ACTIVITY&fontSize=18&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=nx-manoj&bg_color=050010&color=c4b5fd&line=7c3aed&point=c4b5fd&area_color=2d1b69&area=true&hide_border=true&radius=10&custom_title=nx-manoj's%20Contribution%20Graph" />
+
+<br/><br/>
+
+<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nx-manoj/nx-manoj/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nx-manoj/nx-manoj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nx-manoj/nx-manoj/output/github-snake-dark.svg" width="95%" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nx-manoj/nx-manoj/output/github-snake-dark.svg" width="96%" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ╔══════════════ SUPPORTER ══════════════╗ -->
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--               VIBES & AESTHETIC                 -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=40&text=💜%20Special%20Thanks&fontSize=20&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=50&text=🎧%20%20VIBES%20%26%20PERSONALITY&fontSize=18&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Behind+every+coder+is+someone+who+believes...+%F0%9F%92%9C;Thank+you+D+for+always+being+there+%F0%9F%8C%9F;My+biggest+supporter+%F0%9F%92%9C%F0%9F%92%9C%F0%9F%92%9C" alt="Supporter" />
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    🕐  T I M E L I N E  ─  A  D A Y  I N  M Y  L I F E      ║
+║                                                               ║
+║    08:00  ─  Boot up. Coffee loading... ☕                    ║
+║    09:00  ─  Python sessions begin 🐍                         ║
+║    12:00  ─  DS explorations & experiments 📊                 ║
+║    15:00  ─  AI tools & prompt engineering 🤖                 ║
+║    18:00  ─  Music on. Vibes activated. 🎧                    ║
+║    21:00  ─  Night mode: best code gets written 🌙            ║
+║    00:00  ─  "Just one more commit..." 💜                     ║
+║    02:00  ─  Sleep (eventually)... 😴                         ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<br/><br/>
+<br/>
 
-> *"Not all heroes write code — some just believe in those who do."* 💜
->
-> **Thank you, D...🌟** — for being my biggest supporter, my constant motivation, and the reason I keep going. This journey wouldn't be the same without you. 💜
+<!-- ANIMATED TYPING — PHILOSOPHY -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=40&lines=💻+Coding+is+my+happy+place+%7C+🤖+AI+is+my+playground;🎧+Music+is+my+fuel+%7C+🌙+Night+sessions+are+sacred;☕+Coffee+%2B+code+%3D+perfect+equation;🔁+Build.+Break.+Learn.+Repeat." alt="philosophy" />
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ╔══════════════ FOOTER QUOTE ══════════════╗ -->
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--                SPECIAL THANKS                   -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+like+music+%E2%80%94+it%27s+all+about+the+vibe.&author=nx-manoj" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=50&text=💜%20%20SPECIAL%20THANKS&fontSize=18&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <br/><br/>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d1b69,100:1a0533&height=130&section=footer&text=Keep+Vibing+%F0%9F%8E%A7&fontSize=20&fontColor=c4b5fd&animation=fadeIn&fontAlignY=65" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=1500&color=C4B5FD&center=true&vCenter=true&width=700&lines=Behind+every+coder...+is+someone+who+believes+in+them+💜;Thank+you+D(Soul)+for+being+my+constant+light+🌟;Every+commit+carries+your+belief+in+me+💜💜💜" alt="thanks" />
+
+<br/><br/>
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    "Not all heroes write code —                               ║
+║     some just believe in those who do."          💜           ║
+║                                                               ║
+║     Thank you, D(Soul)... 🌟                                  ║
+║     For being my biggest supporter,                           ║
+║     my constant motivation,                                   ║
+║     and the reason I keep going.                              ║
+║                                                               ║
+║     This journey is dedicated to you. 💜                      ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--           Made with 💜 by Manoj                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
+<!-- ╔══════════════════════════════════════════════╗ -->
+<!--                  RANDOM QUOTE                   -->
+<!-- ╚══════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+poetry+—+it's+all+about+the+vibe+you+bring+to+it.&author=nx-manoj" />
+
+<br/><br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050010,30:0d0221,70:1a0533,100:2d1b69&height=160&section=footer&text=Keep+Vibing+%26+Keep+Building+🚀&fontSize=22&fontColor=c4b5fd&animation=fadeIn&fontAlignY=65&desc=nx-manoj%20•%20Made%20with%20💜%20%26%20obsession&descAlignY=82&descColor=7c3aed&descSize=13" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    Made with 💜 by Manoj (nx-manoj)                    -->
+<!--           github.com/nx-manoj • BCA Data Science • Gen AI Explorer     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
