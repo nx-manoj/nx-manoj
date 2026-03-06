@@ -20,13 +20,11 @@ My goal is to build real projects and gradually grow into a **Generative AI Engi
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🛠 Tech Stack
 
-* Python
-* C Programming
-* Git & GitHub
-* Data Science basics
-* Generative AI concepts
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode" />
+</p>
 
 ---
 
