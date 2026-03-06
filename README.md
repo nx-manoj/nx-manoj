@@ -33,6 +33,7 @@
 class Manoj:
     def __init__(self):
         self.username   = "nx-manoj"
+        self.supporter  = "Deepthi 💜"        # my biggest supporter 🌟
         self.degree     = "BCA — Data Science"
         self.role       = "Vibe Coder & Gen AI Explorer"
         self.languages  = ["Python 🐍", "C", "Bash"]
@@ -42,6 +43,7 @@ class Manoj:
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome 🚀")
+        print(f"Special thanks to my supporter: {self.supporter} 🌟")
 
 me = Manoj()
 me.say_hi()
@@ -176,6 +178,18 @@ Small Coding Projects
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nx-manoj/nx-manoj/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nx-manoj/nx-manoj/output/github-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+<!-- Supporter Shoutout -->
+<div align="center">
+
+### 💜 Special Thanks
+
+*Behind every coder is someone who believes in them —*
+**Thank you, Deepthi** for being my biggest supporter 🌟
 
 </div>
 
