@@ -1,4 +1,5 @@
 ## Hi there 👋
+Have a good dayhh !!
 
 <!--
 **nx-manoj/nx-manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
