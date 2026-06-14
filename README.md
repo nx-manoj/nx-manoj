@@ -1,5 +1,5 @@
 ## Hi there 👋
-Don't need to understand everything by heart. Just understand the flow of what it does and what's the use of it.
+You don't need to memorize everything by heart. Just understand the flow of what it does and what's the use of it.
 
 I'm junior Data scientist...
 <!--
