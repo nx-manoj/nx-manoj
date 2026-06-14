@@ -1,6 +1,7 @@
 ## Hi there 👋
-Have a good dayhh !!
+Don't need to understand everything bu heart. Just understand the flow of what it does and what's the use of it.
 
+I'm junior Data scientist...
 <!--
 **nx-manoj/nx-manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
