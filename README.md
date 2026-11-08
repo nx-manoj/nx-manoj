@@ -1,18 +1,15 @@
-## Hi there 👋
-You don't need to memorize everything by heart. Just understand the flow of what it does and what's the use of it.
+# Hi, I'm Manoj 👋
 
-I'm junior Data scientist...
-<!--
-**nx-manoj/nx-manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science practitioner who enjoys turning real-world questions into clear, reproducible analysis and useful tools. My work spans exploratory data analysis, machine learning, and applied research.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[DataPilot](https://github.com/nx-manoj/DataPilot)** — A Polars-native EDA library with local AI insights, automated cleaning, drift detection, and outlier analysis.
+- **[India Agro-Power-Water Nexus](https://github.com/nx-manoj/Machine-learning-projects/tree/main/India-Agro-Power-Water-Nexus)** — An applied analysis of crop yields, irrigation electrification, and aquifer sustainability across Indian states.
+- **[Bengaluru Housing Prices](https://github.com/nx-manoj/Machine-learning-projects/tree/main/Bengaluru-Housing-Prices)** — A machine learning project exploring residential price data.
+
+## Focus areas
+
+Python · Data analysis · Exploratory data analysis · Machine learning · Applied research
+
+I value readable code, thoughtful problem framing, and making analytical results easy to understand.
